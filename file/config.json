@@ -1,0 +1,9 @@
+{
+    "base_url": "https://www.shodan.io/",
+    "dashboard_url": "dashboard",
+    "query_url":"search",
+    "cookies": {
+        "cf_clearance":"",
+        "polito":""
+    }
+}
